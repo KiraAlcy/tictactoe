@@ -1,0 +1,222 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kacpe\\source\\repos\\Tic Tac Toe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A88FCD-586C-4B56-B2CF-35B6B804856A}|Tic Tac Toe\\Tic Tac Toe.csproj|c:\\users\\kacpe\\source\\repos\\tic tac toe\\tic tac toe\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7A88FCD-586C-4B56-B2CF-35B6B804856A}|Tic Tac Toe\\Tic Tac Toe.csproj|solutionrelative:tic tac toe\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A88FCD-586C-4B56-B2CF-35B6B804856A}|Tic Tac Toe\\Tic Tac Toe.csproj|c:\\users\\kacpe\\source\\repos\\tic tac toe\\tic tac toe\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7A88FCD-586C-4B56-B2CF-35B6B804856A}|Tic Tac Toe\\Tic Tac Toe.csproj|solutionrelative:tic tac toe\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A88FCD-586C-4B56-B2CF-35B6B804856A}|Tic Tac Toe\\Tic Tac Toe.csproj|c:\\users\\kacpe\\source\\repos\\tic tac toe\\tic tac toe\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A7A88FCD-586C-4B56-B2CF-35B6B804856A}|Tic Tac Toe\\Tic Tac Toe.csproj|solutionrelative:tic tac toe\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A88FCD-586C-4B56-B2CF-35B6B804856A}|Tic Tac Toe\\Tic Tac Toe.csproj|c:\\users\\kacpe\\source\\repos\\tic tac toe\\tic tac toe\\gameresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7A88FCD-586C-4B56-B2CF-35B6B804856A}|Tic Tac Toe\\Tic Tac Toe.csproj|solutionrelative:tic tac toe\\gameresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A88FCD-586C-4B56-B2CF-35B6B804856A}|Tic Tac Toe\\Tic Tac Toe.csproj|c:\\users\\kacpe\\source\\repos\\tic tac toe\\tic tac toe\\tic tac toe.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A7A88FCD-586C-4B56-B2CF-35B6B804856A}|Tic Tac Toe\\Tic Tac Toe.csproj|solutionrelative:tic tac toe\\tic tac toe.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A88FCD-586C-4B56-B2CF-35B6B804856A}|Tic Tac Toe\\Tic Tac Toe.csproj|c:\\users\\kacpe\\source\\repos\\tic tac toe\\tic tac toe\\wintype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7A88FCD-586C-4B56-B2CF-35B6B804856A}|Tic Tac Toe\\Tic Tac Toe.csproj|solutionrelative:tic tac toe\\wintype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A88FCD-586C-4B56-B2CF-35B6B804856A}|Tic Tac Toe\\Tic Tac Toe.csproj|c:\\users\\kacpe\\source\\repos\\tic tac toe\\tic tac toe\\wininfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7A88FCD-586C-4B56-B2CF-35B6B804856A}|Tic Tac Toe\\Tic Tac Toe.csproj|solutionrelative:tic tac toe\\wininfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A88FCD-586C-4B56-B2CF-35B6B804856A}|Tic Tac Toe\\Tic Tac Toe.csproj|c:\\users\\kacpe\\source\\repos\\tic tac toe\\tic tac toe\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7A88FCD-586C-4B56-B2CF-35B6B804856A}|Tic Tac Toe\\Tic Tac Toe.csproj|solutionrelative:tic tac toe\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A88FCD-586C-4B56-B2CF-35B6B804856A}|Tic Tac Toe\\Tic Tac Toe.csproj|c:\\users\\kacpe\\source\\repos\\tic tac toe\\tic tac toe\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7A88FCD-586C-4B56-B2CF-35B6B804856A}|Tic Tac Toe\\Tic Tac Toe.csproj|solutionrelative:tic tac toe\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A88FCD-586C-4B56-B2CF-35B6B804856A}|Tic Tac Toe\\Tic Tac Toe.csproj|c:\\users\\kacpe\\source\\repos\\tic tac toe\\tic tac toe\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7A88FCD-586C-4B56-B2CF-35B6B804856A}|Tic Tac Toe\\Tic Tac Toe.csproj|solutionrelative:tic tac toe\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A88FCD-586C-4B56-B2CF-35B6B804856A}|Tic Tac Toe\\Tic Tac Toe.csproj|c:\\users\\kacpe\\source\\repos\\tic tac toe\\tic tac toe\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A7A88FCD-586C-4B56-B2CF-35B6B804856A}|Tic Tac Toe\\Tic Tac Toe.csproj|solutionrelative:tic tac toe\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A88FCD-586C-4B56-B2CF-35B6B804856A}|Tic Tac Toe\\Tic Tac Toe.csproj|c:\\users\\kacpe\\source\\repos\\tic tac toe\\tic tac toe\\tic tac toe.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A7A88FCD-586C-4B56-B2CF-35B6B804856A}|Tic Tac Toe\\Tic Tac Toe.csproj|solutionrelative:tic tac toe\\tic tac toe.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\kacpe\\source\\repos\\Tic Tac Toe\\Tic Tac Toe\\Player.cs",
+              "RelativeDocumentMoniker": "Tic Tac Toe\\Player.cs",
+              "ToolTip": "C:\\Users\\kacpe\\source\\repos\\Tic Tac Toe\\Tic Tac Toe\\Player.cs",
+              "RelativeToolTip": "Tic Tac Toe\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T15:15:06.819Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WinType.cs",
+              "DocumentMoniker": "C:\\Users\\kacpe\\source\\repos\\Tic Tac Toe\\Tic Tac Toe\\WinType.cs",
+              "RelativeDocumentMoniker": "Tic Tac Toe\\WinType.cs",
+              "ToolTip": "C:\\Users\\kacpe\\source\\repos\\Tic Tac Toe\\Tic Tac Toe\\WinType.cs",
+              "RelativeToolTip": "Tic Tac Toe\\WinType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T15:16:26.234Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\kacpe\\source\\repos\\Tic Tac Toe\\Tic Tac Toe\\App.xaml",
+              "RelativeDocumentMoniker": "Tic Tac Toe\\App.xaml",
+              "ToolTip": "C:\\Users\\kacpe\\source\\repos\\Tic Tac Toe\\Tic Tac Toe\\App.xaml",
+              "RelativeToolTip": "Tic Tac Toe\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-29T16:02:22.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\kacpe\\source\\repos\\Tic Tac Toe\\Tic Tac Toe\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Tic Tac Toe\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\kacpe\\source\\repos\\Tic Tac Toe\\Tic Tac Toe\\MainWindow.xaml",
+              "RelativeToolTip": "Tic Tac Toe\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-29T15:14:37.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kacpe\\source\\repos\\Tic Tac Toe\\Tic Tac Toe\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Tic Tac Toe\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\kacpe\\source\\repos\\Tic Tac Toe\\Tic Tac Toe\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Tic Tac Toe\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAL4AAAAAAAAAAAAIwNQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T15:14:36.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Tic Tac Toe",
+              "DocumentMoniker": "C:\\Users\\kacpe\\source\\repos\\Tic Tac Toe\\Tic Tac Toe\\Tic Tac Toe.csproj",
+              "RelativeDocumentMoniker": "Tic Tac Toe\\Tic Tac Toe.csproj",
+              "ToolTip": "C:\\Users\\kacpe\\source\\repos\\Tic Tac Toe\\Tic Tac Toe\\Tic Tac Toe.csproj",
+              "RelativeToolTip": "Tic Tac Toe\\Tic Tac Toe.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-29T20:44:22.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tic Tac Toe.csproj",
+              "DocumentMoniker": "C:\\Users\\kacpe\\source\\repos\\Tic Tac Toe\\Tic Tac Toe\\Tic Tac Toe.csproj",
+              "RelativeDocumentMoniker": "Tic Tac Toe\\Tic Tac Toe.csproj",
+              "ToolTip": "C:\\Users\\kacpe\\source\\repos\\Tic Tac Toe\\Tic Tac Toe\\Tic Tac Toe.csproj",
+              "RelativeToolTip": "Tic Tac Toe\\Tic Tac Toe.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-07T13:15:34.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kacpe\\source\\repos\\Tic Tac Toe\\Tic Tac Toe\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Tic Tac Toe\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\kacpe\\source\\repos\\Tic Tac Toe\\Tic Tac Toe\\App.xaml.cs",
+              "RelativeToolTip": "Tic Tac Toe\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T20:53:52.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\kacpe\\source\\repos\\Tic Tac Toe\\Tic Tac Toe\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Tic Tac Toe\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\kacpe\\source\\repos\\Tic Tac Toe\\Tic Tac Toe\\AssemblyInfo.cs",
+              "RelativeToolTip": "Tic Tac Toe\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T20:53:53.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameState.cs",
+              "DocumentMoniker": "C:\\Users\\kacpe\\source\\repos\\Tic Tac Toe\\Tic Tac Toe\\GameState.cs",
+              "RelativeDocumentMoniker": "Tic Tac Toe\\GameState.cs",
+              "ToolTip": "C:\\Users\\kacpe\\source\\repos\\Tic Tac Toe\\Tic Tac Toe\\GameState.cs",
+              "RelativeToolTip": "Tic Tac Toe\\GameState.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAIAwwIEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T15:22:45.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameResult.cs",
+              "DocumentMoniker": "C:\\Users\\kacpe\\source\\repos\\Tic Tac Toe\\Tic Tac Toe\\GameResult.cs",
+              "RelativeDocumentMoniker": "Tic Tac Toe\\GameResult.cs",
+              "ToolTip": "C:\\Users\\kacpe\\source\\repos\\Tic Tac Toe\\Tic Tac Toe\\GameResult.cs",
+              "RelativeToolTip": "Tic Tac Toe\\GameResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T15:20:41.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WinInfo.cs",
+              "DocumentMoniker": "C:\\Users\\kacpe\\source\\repos\\Tic Tac Toe\\Tic Tac Toe\\WinInfo.cs",
+              "RelativeDocumentMoniker": "Tic Tac Toe\\WinInfo.cs",
+              "ToolTip": "C:\\Users\\kacpe\\source\\repos\\Tic Tac Toe\\Tic Tac Toe\\WinInfo.cs",
+              "RelativeToolTip": "Tic Tac Toe\\WinInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T15:18:13.653Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
